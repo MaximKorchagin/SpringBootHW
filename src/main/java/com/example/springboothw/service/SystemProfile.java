@@ -1,4 +1,4 @@
-package com.example.springboothw;
+package com.example.springboothw.service;
 
 public interface SystemProfile {
     String getProfile();

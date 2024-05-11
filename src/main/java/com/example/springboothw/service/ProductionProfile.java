@@ -1,4 +1,6 @@
-package com.example.springboothw;
+package com.example.springboothw.service;
+
+import com.example.springboothw.service.SystemProfile;
 
 public class ProductionProfile implements SystemProfile {
     @Override

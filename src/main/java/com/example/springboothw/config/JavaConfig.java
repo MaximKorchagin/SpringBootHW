@@ -1,5 +1,8 @@
-package com.example.springboothw;
+package com.example.springboothw.config;
 
+import com.example.springboothw.service.DevProfile;
+import com.example.springboothw.service.ProductionProfile;
+import com.example.springboothw.service.SystemProfile;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
